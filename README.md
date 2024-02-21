@@ -1,7 +1,6 @@
 ![Kouroshc Zahenia](./banner.png)
 <h1 align="center">Hi 👋, I'm Kourosh Zahednia</h1>
 <h3 align="center">Im IT & Network Engineer , Web Developer</h3>
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=creat1vo.creat1vo)](https://github.com/creat1vo) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 
 - 🔭 I’m currently working on [Asia Classification Society](asiaclass.org)
 
