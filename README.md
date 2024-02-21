@@ -1,3 +1,4 @@
+(./banner.png)
 <h1 align="center">Hi 👋, I'm Kourosh Zahednia</h1>
 <h3 align="center">Im IT & Network Engineer , Web Developer</h3>
 
