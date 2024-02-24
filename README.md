@@ -2,13 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kourosh Zahednia</h1>
 <h3 align="center">Im IT & Network Engineer , Web Developer</h3>
 
-- 🔭 I’m currently working on [Asia Classification Society](asiaclass.org)
-
-- 👨‍💻 All of my projects are available at [kouroshc.ir](kouroshc.ir)
-
 - 💬 Ask me about **Frontend & PHP**
 
-- 📫 How to reach me **zahednia.ir**
+- 📫 How to reach me **info@kouroshc.ir**
 
 - 📄 Know about my experiences [kouroshc.ir](kouroshc.ir)
 
