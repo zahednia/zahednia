@@ -1,7 +1,7 @@
 ![Kouroshc Zahenia](./banner.png)
 
 <h1 align="center">Hi 👋, I'm Kourosh Zahednia</h1>
-<h3 align="center">🚀 IT Expert | Backend Developer Specialized in ASP.NET Core, C#, WebAPI, EF Core | Telegram Bot Developer with Pyrogram Library (Python) at Asia Classification Society : <br/><br/>
+<h3 align="left">🚀 IT Expert | Backend Developer Specialized in ASP.NET Core, C#, WebAPI, EF Core | Telegram Bot Developer with Pyrogram Library (Python) at Asia Classification Society : <br/><br/>
 
 Asia Classification Society (ACS) was founded on 2005 supported by 25 years practical and technical  experiences of its founded IBS ( Iransafineh Bureau of shipping) and IGS (Iranian Group of Surveyors), with the aim to promote maritime safety as its core commitment.
 Today, ACS strives to be the most efficient provider of marine and offshore classification services in Iran and the Middle East. This is achieved through innovative thinking, enthusiasm and professionalism of its staff.
