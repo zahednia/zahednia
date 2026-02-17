@@ -3,11 +3,20 @@
 <h1 align="center">Hi 👋, I'm Kourosh Zahednia</h1>
 <h3 align="left">🚀 IT Expert | Backend Developer Specialized in ASP.NET Core, C#, WebAPI, EF Core | Telegram Bot Developer with Pyrogram Library (Python) at Asia Classification Society : <br/><br/>
 
-Asia Classification Society (ACS) was founded on 2005 supported by 25 years practical and technical  experiences of its founded IBS ( Iransafineh Bureau of shipping) and IGS (Iranian Group of Surveyors), with the aim to promote maritime safety as its core commitment.
-Today, ACS strives to be the most efficient provider of marine and offshore classification services in Iran and the Middle East. This is achieved through innovative thinking, enthusiasm and professionalism of its staff.
-ACS sets its mission to serve the public interest as well as the needs of its clients by promoting security of life and property and preserving the natural environment.
-ACS along with other approved members has been authorized to perform statutory surveys on behalf of Ports and Maritime Organization (PMO) (Iranian maritime authority).
-ACS has successfully implemented ISO 9001-2008 quality management system, and based on its development strategy has been granted ISO/IEC 17020 certificate, leading to development in its services especially in industrial, oil and energy market.
+Hi, my name is Koresh Zahednia and I’m 20 years old.
+
+I got interested in programming when I was 14. At first, I worked with HTML, CSS, and JavaScript and improved myself in that area. During technical high school, I did several projects and even wrote some code for my school’s website, which helped me gain good experience.
+
+Later, I realized my main interest is back-end development. I started with small Python projects, but soon I decided to focus on one language and one stack more seriously, so I chose C#.
+
+My projects and the courses I took helped me progress a lot. My first serious project was called **ITSoftware**, which I built using C# Windows Forms. The idea was to help an IT team in a company record and manage computer system details and perform regular checks based on a schedule.
+
+After that, I improved the project so it wasn’t only about computers anymore and could store information about any equipment in the company. That’s when I moved from Windows Forms to a Web API to make it more modern and easier to expand. In the end, I redesigned it as a website, and after continuous development, it was deployed to production and is currently being used.
+
+Right now, I’m still learning and improving in back-end development, and I’ve also started learning front-end so I can build clean and standard web services (based on Clean Architecture) and also create nice and practical UI using Next.js and React.
+
+My goal is to build software that is efficient, simple, and also attractive.
+
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahednia&label=Profile%20views&color=0e75b6&style=flat-square" alt="zahednia" /> </p>
