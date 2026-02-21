@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kourosh Zahednia</h1>
 <h3 align="left">🚀 IT Expert | Backend Developer Specialized in ASP.NET Core, C#, WebAPI, EF Core | Telegram Bot Developer with Pyrogram Library (Python) at Asia Classification Society : <br/><br/>
 
-Hi, my name is Kourosh Zahednia and I’m 20 years old.
+Hi, my name is Kourosh Zahednia and I’m 21 years old.
 
 I got interested in programming when I was 14. At first, I worked with HTML, CSS, and JavaScript and improved myself in that area. During technical high school, I did several projects and even wrote some code for my school’s website, which helped me gain good experience.
 
