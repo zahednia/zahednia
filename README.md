@@ -1,7 +1,7 @@
 ![Kouroshc Zahenia](./2.jpg)
 
 <h1 align="center">Hi 👋, I'm Kourosh Zahednia</h1>
-<h3 align="left">🚀 IT Expert | Backend Developer Specialized in ASP.NET Core, C#, WebAPI, EF Core | Telegram Bot Developer with Pyrogram Library (Python) at Asia Classification Society : <br/><br/>
+<h3 align="left">🚀 Backend Developer Specialized in ASP.NET Core, C#, WebAPI, EF Core | Telegram Bot Developer with Pyrogram Library (Python) at Asia Classification Society : <br/><br/>
 
 Hi, my name is Kourosh Zahednia and I’m 21 years old.
 
